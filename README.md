@@ -11,9 +11,10 @@ This repo exists purely so I never lose track of JackSucksAtLife / JackMasseyWel
 - The occasional cursed edit  
 - And of course…  
 
-### ⭐ **THE SOUR LOLLIPOP THUMBNAIL** ⭐  
-Because no collection is complete without a man suffering at the hands of candy.  
-![Sour Lollipop](https://raw.githubusercontent.com/T3chieJack/JackThumbnailBackup/main/DSC01332-removebg)
+### ⭐ The Sour Lollipop Thumbnail ⭐  
+
+![Sour Lollipop](https://github.com/T3chieJack/JackThumbnailBackup/raw/main/DSC01332-removebg.png)
+
 ---
 
 ## ⚡ Why?
